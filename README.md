@@ -47,9 +47,9 @@
 ###
 
 <h1 align="center">
-   <img src="https://github.com/vinityadav2407/vinityadav2407/blob/main/rabbit.gif" width="50px" style="max-width:100%;" />
+   <img src="https://github.com/vinityadav2407/vinityadav2407/blob/main/rabbit.gif" width="70px" style="max-width:100%;" />
   Hi, Welcome to my World 
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" style="max-width:100%;" />
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="45px" style="max-width:100%;" />
 </h1> 
 
 # 👩‍💻  About Me :
