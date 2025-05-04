@@ -10,14 +10,14 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
 </a>
 
-<a href="https://twitter.com/your-handle" target="_blank">
+<a href="https://x.com/VinitYadav8853?t=t0I4BwEo_xzpg295gclU_g&s=09" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
 </a>
 
 
 
 
-  <a href="https://www.instagram.com/your-username" target="_blank">
+  <a href="https://www.instagram.com/vinityadav885317/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
 </a>
 
@@ -51,7 +51,7 @@
 
 ###
 
-<p align="left">I'm Vinit Yadav from up Mau<br><br>- 🔭 I’m looking for the fullstack developer role..<br>- 📚 I'm currently learning react.js <br>- ⚡ In my free time I am practing typing..</p>
+<p align="left">I'm Vinit Yadav from up Mau<br><br>- 🔭 I’m looking for the fullstack developer role..<br><br>-  💬 Ask me about Data structure and web dev <br><br>- 📚 I'm currently learning react.js <br><br>- 📫 How to reach me <a href="">vinityadav885317@gmail.com</a> or <a href="https://www.linkedin.com/in/vinit-yadav-4b4753237/">linkedin </a> </p>
 
 ###
 
