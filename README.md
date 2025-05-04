@@ -33,19 +33,14 @@
 <a href="mailto:your.email@example.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
 </a>
-
 </div>
 
 ###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=vinityadav2407&"  />
 </div>
 
-
-
 ###
-
 <h1 align="center">
    <img src="https://github.com/vinityadav2407/vinityadav2407/blob/main/rabbit.gif" width="70px" style="max-width:100%;" />
   Hi, Welcome to my World 
