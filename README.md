@@ -3,8 +3,6 @@
 </div>
 
 ###
-
-
 <div align="center">
   
  <a href="https://www.linkedin.com/in/vinit-yadav-4b4753237/" target="_blank">
