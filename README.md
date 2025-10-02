@@ -50,7 +50,7 @@
 
 
 ###
-<p align="left">I'm Vinit Yadav from up Mau<br><br>- 🔭 I’m looking for the fullstack developer role..<br><br>-  💬 Ask me about Data structure and web dev <br><br>- 📚 I'm currently working on react.js  <br><br>-🌐[View Portfolio Live](https://portfolio-gamma-six-mtaw8lftym.vercel.app/) 
+<p align="left">I'm Vinit Yadav from up Mau<br><br>- 🔭 I’m looking for the fullstack developer role..<br><br>-  💬 Ask me about Data structure and web dev <br><br>- 📚 I'm currently working on backend  <br><br>-🌐[View Portfolio Live](https://portfolio-gamma-six-mtaw8lftym.vercel.app/) 
 <br><br>- 📫 How to reach me <a href="">vinityadav885317@gmail.com</a> or <a href="https://www.linkedin.com/in/vinit-yadav-4b4753237/">linkedin </a> </p>
 
 # 💻 Tech Stack
