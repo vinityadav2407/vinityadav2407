@@ -47,6 +47,8 @@
 
 # 👩‍💻  About Me :
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=monospace&color=%23FFA500&vCenter=true&lines=A+Passionate+Software+Engineer;Tech+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
+
 
 
 ###
